@@ -21,8 +21,7 @@ const Project = (props) => {
                 <p className="proj_des">{props.item.descrip}</p>
             </div>
         </section>
-
-
+        
     )
 }
 export default Project;

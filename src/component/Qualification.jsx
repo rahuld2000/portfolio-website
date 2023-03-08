@@ -26,6 +26,7 @@ const Qualification = () => {
                </ul>
 
             </div>
+            
         </div>
     )
 }

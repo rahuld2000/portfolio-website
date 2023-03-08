@@ -16,7 +16,7 @@ const projects=[
     {
         id:2,
         imgUrl:journal,
-        title:"Travel journal",
+        title:"Wrapped",
         git:"https://github.com/rahuld2000/REACT-Map-Journal",
         live:"erferf",
         descrip:"ReactJs, HTML, CSS"
@@ -48,7 +48,7 @@ const projects=[
     {
         id:6,
         imgUrl:quotes,
-        title:"Quotes",
+        title:"Weather App",
         git:"https://github.com/rahuld2000/Quote-Generator",
         live:"https://rahuld2000.github.io/Quote-Generator/",
         descrip:"Vanilla Js, HTML, CSS"
