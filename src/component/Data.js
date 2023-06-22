@@ -2,8 +2,8 @@ import Portfolio from "./images/portfolio.jpg";
 import gradient from "./images/gradient.jpg";
 import meme from "./images/meme.jpg";
 import todolist from "./images/todolist.jpg";
-import quotes from "./images/quotes.jpg";
-import journal from "./images/journal.jpg";
+import weather from "./images/weather.jpg";
+import wrapped from "./images/wrapped.jpg";
 const projects=[
     {
         id:1,
@@ -15,11 +15,11 @@ const projects=[
     },
     {
         id:2,
-        imgUrl:journal,
+        imgUrl:wrapped,
         title:"Wrapped",
         git:"https://github.com/rahuld2000/REACT-Map-Journal",
-        live:"erferf",
-        descrip:"ReactJs, HTML, CSS"
+        live:"https://wrapped-ivory.vercel.app/",
+        descrip:"ReactJs, HTML, CSS, API"
     },
     {
         id:3,
@@ -47,11 +47,11 @@ const projects=[
     },
     {
         id:6,
-        imgUrl:quotes,
+        imgUrl:weather,
         title:"Weather App",
-        git:"https://github.com/rahuld2000/Quote-Generator",
-        live:"https://rahuld2000.github.io/Quote-Generator/",
-        descrip:"Vanilla Js, HTML, CSS"
+        git:"https://github.com/rahuld2000/weather-app",
+        live:"https://weather-app-theta-rosy.vercel.app/",
+        descrip:"React Js, HTML, CSS, API"
     },
 ]
 export default projects;
