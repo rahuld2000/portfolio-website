@@ -2,8 +2,8 @@ import Portfolio from "./images/portfolio.jpg";
 import gradient from "./images/gradient.jpg";
 import meme from "./images/meme.jpg";
 import todolist from "./images/todolist.jpg";
-import weather from "./images/weather.jpg";
-import wrapped from "./images/wrapped.jpg";
+import weather from "./images/weather.png";
+import wrapped from "./images/wrapped.png";
 const projects=[
     {
         id:1,
