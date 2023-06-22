@@ -9,7 +9,7 @@ const projects=[
         id:1,
         imgUrl:Portfolio,
         title:"Portfolio Website",
-        git:"rfer",
+        git:"rf",
         live:"fref",
         descrip:"ReactJs, HTML, CSS"
     },
