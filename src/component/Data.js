@@ -4,7 +4,38 @@ import meme from "./images/meme.jpg";
 import todolist from "./images/todolist.jpg";
 import weather from "./images/weather.png";
 import wrapped from "./images/wrapped.png";
-const projects=[
+import ecom from "./images/ecom.png";
+import chico from "./images/chiclobe.png"
+import nike from "./images/nike.png"
+let projects  =[
+
+{
+    id:7,
+    imgUrl:ecom,
+    title:"Ecom-Website(FULL STACK)",
+    git:"rf",
+    live:"fref",
+    descrip:"ReactJs, SCSS, Strapi"
+
+},
+{
+    id:8,
+        imgUrl:chico,
+        title:"CHICLOBE",
+        git:"https://github.com/rahuld2000/EYESWEAR-ECOM",
+        live:"https://eyeswear-ecom.vercel.app/",
+        descrip:"Nextjs, Tailwind, "
+},
+{
+    id:9,
+        imgUrl:nike,
+        title:"Nike Page(Tailwind)",
+        git:"https://github.com/rahuld2000/nike-website-tailwind",
+        live:"https://nike-website-tailwind.vercel.app/",
+        descrip:"Nextjs, Tailwind"
+},
+
+
     {
         id:1,
         imgUrl:Portfolio,
@@ -55,3 +86,4 @@ const projects=[
     },
 ]
 export default projects;
+

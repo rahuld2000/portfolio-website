@@ -19,7 +19,7 @@ const Cont = () => {
     }
 
     return (
-        <div id='contact' className="cont_main skill_main">
+        <div  className="cont_main skill_main">
             <div className="cont_head skill_head">
                 <h2>Contact Me</h2>
                 <p>Get in touch</p>

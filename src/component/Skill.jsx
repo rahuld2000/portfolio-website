@@ -1,6 +1,7 @@
 import React from "react";
 import "./skill.css"
-const Skill = () => {
+const Skills=() => {
+
   function handleleet(){
     window.open("https://leetcode.com/RahulDhiman/")
   }
@@ -12,7 +13,7 @@ function handlegit(){
 }
 
     return (
-        <div id="skills" className="skill_main">
+        <div  className="skill_main">
             <div className="skill_head">
                 <h2>Skills</h2>
                 <p>My technical level</p>
@@ -57,6 +58,7 @@ function handlegit(){
                     </tr>
                     <tr>
                         <td><i className="fa-regular fa-circle-check"></i> Material UI</td>
+                        <td><i className="fa-regular fa-circle-check"></i>Nextjs</td>
                     </tr>
                     </tbody>
                 </table>
@@ -79,9 +81,7 @@ function handlegit(){
                         <td><i className="fa-regular fa-circle-check"></i> SQL</td>
                         <td><i className="fa-regular fa-circle-check"></i> DBMS</td>
                     </tr>
-                    <tr>
-                        <td><i className="fa-regular fa-circle-check"></i> computer network</td>
-                    </tr>
+                 
                     </tbody>
                 </table>
             </div>
@@ -90,4 +90,4 @@ function handlegit(){
 
     )
 }
-export default Skill
+export default Skills;
