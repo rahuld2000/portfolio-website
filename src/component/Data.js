@@ -7,7 +7,7 @@ import wrapped from "./images/wrapped.png";
 import ecom from "./images/ecom.png";
 import chico from "./images/chiclobe.png"
 import nike from "./images/nike.png"
-import blog from "./blog.png"
+import blog from "./images/blog.png"
 let projects  =[
 
 {
