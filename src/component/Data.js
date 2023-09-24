@@ -7,8 +7,18 @@ import wrapped from "./images/wrapped.png";
 import ecom from "./images/ecom.png";
 import chico from "./images/chiclobe.png"
 import nike from "./images/nike.png"
+import blog from "./blog.png"
 let projects  =[
 
+{
+    id:8,
+    imgUrl:blog,
+    title:"blog website(Full Stack)",
+    git:"https://github.com/rahuld2000/blog-website",
+    live:"https://blog-website-lovat-six.vercel.app/",
+    descrip:"NextJs, Tailwind, Mongodb, Nextauth"
+
+},
 {
     id:7,
     imgUrl:ecom,
